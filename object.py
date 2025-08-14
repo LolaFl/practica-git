@@ -1,3 +1,4 @@
+#Clase para una maquina de joyas
 class MaquinaJoyeria:
     def __init__(self, marca, modelo, tipo_material, encendida=False):
         self.__marca = marca
